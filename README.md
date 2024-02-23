@@ -5,4 +5,4 @@ Doing Predictions on Test Labels
     
   2)Load the given training labels and testing labels.
   
-  3)You can prediction on the trained model using these labels
+  3)You can perform prediction on the trained model using these labels
